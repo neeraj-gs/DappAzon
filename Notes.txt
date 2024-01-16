@@ -1,0 +1,16 @@
+DappAzon
+    An E commerce website , that is similar to Amzon that helps people to purchase using 
+    Cryptocurrencies 
+
+
+E Commerce Store 
+    Smart Contract - TO handle market place for purcahsing things and modelling the product 
+    User connects with browser wallet like metamask 
+    Connect to blockchain bsaed website and purchase by interacting woth Smart contract 
+    Merchant recieves the ether that is contributed by end user and each order is pre filled for the customer 
+
+    IPFS[inter planetory file system]
+        to host the images , there are multiple products on smart chaing , tehre are multiple images of the products on the ecomerce store 
+        these should not go on the blockchain so , ipfs stores the images , it si a decentralized file system protocol 
+    A ref to image is stored on BC 
+    
